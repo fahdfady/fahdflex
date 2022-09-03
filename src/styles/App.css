@@ -5,6 +5,10 @@
 body {
   background-color: #000;
   font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-transform: capitalize;
+  text-transform: capitalize !important;
+}
+
+* {
+  text-transform: capitalize !important;
 }
 /*# sourceMappingURL=App.css.map */
