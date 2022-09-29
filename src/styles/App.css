@@ -13,6 +13,6 @@ body {
 }
 
 input {
-  text-transform: unset !important;
+  text-transform: none !important;
 }
 /*# sourceMappingURL=App.css.map */
