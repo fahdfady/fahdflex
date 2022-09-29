@@ -11,4 +11,8 @@ body {
 * {
   text-transform: capitalize !important;
 }
+
+input {
+  text-transform: unset !important;
+}
 /*# sourceMappingURL=App.css.map */
